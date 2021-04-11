@@ -1,4 +1,4 @@
-## 1、模型裁切，主要节点、Position、AlphaClip
-原理：AlphaClip的值如果比Alpha的值大，则会不显示
+## 4、卡通阴影色块效果，主要节点：Normal Vector、Dot Product、Sample Gradient
+原理：使用Sample Gradient设置几个阴影色块颜色
 
-![](20200819194005762.gif)
+![](20200827092808619.gif)
