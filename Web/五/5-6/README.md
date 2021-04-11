@@ -1,4 +1,4 @@
-## 1、模型裁切，主要节点、Position、AlphaClip
-原理：AlphaClip的值如果比Alpha的值大，则会不显示
+## 6、积雪效果，主要节点：Nomal Vector、Dot Product
+原理：使用一个向上的 Vector3和 模型的 Normal Vertor(法线向量) 点乘，得到的是 一个标量，表示模型法线向量和垂直向量的夹角（方向的相似度），然后通过 Step过滤得到要显示白色的部分，将要显示的 白色部分再和一个噪声相乘后输入到Master的Emission发光槽中。
 
-![](20200819194005762.gif)
+![](20200821140246947.gif)
