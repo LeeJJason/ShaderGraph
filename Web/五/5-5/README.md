@@ -1,4 +1,5 @@
-## 1、模型裁切，主要节点、Position、AlphaClip
-原理：AlphaClip的值如果比Alpha的值大，则会不显示
+## 5、表面水纹叠加，主要节点：Tilling And Offset、Lerp
+原理：通过`Tilling And Offset`节点的`Offset`来控制水纹的`UV`偏移，然后再使用`Lerp`将水纹和主贴图做一个线性差值
 
-![](20200819194005762.gif)
+![](20200820110824163.gif)
+
