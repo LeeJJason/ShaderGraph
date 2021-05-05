@@ -1,4 +1,4 @@
-## 1、模型裁切，主要节点、Position、AlphaClip
-原理：AlphaClip的值如果比Alpha的值大，则会不显示
+## 14、无贴图旋涡效果，主要节点：Twirl、Voronoi
+原理：使用Twirl对Voronoi产生一个旋涡形状
 
-![](20200819194005762.gif)
+![](2020082615244632.gif)
