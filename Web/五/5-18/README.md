@@ -1,5 +1,5 @@
 ## 18、高斯模糊
-具体实现参见我这篇文章：[Unity ShaderGraph实现图片的高斯模糊效果](https://linxinfa.blog.csdn.net/article/details/112252490)
+具体实现参见这篇文章：[Unity ShaderGraph实现图片的高斯模糊效果](https://linxinfa.blog.csdn.net/article/details/112252490)
 
 ![](20210105214732888.gif)
 
