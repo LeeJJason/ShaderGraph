@@ -2,7 +2,7 @@
 
 ## 目录说明
 * **Node** : ShaderGraph 节点说明
-* **Project** : ShaderGraph 工程练习
+* **Project** : ShaderGraph 工程练习, **unity 版本2019-4-9**
 * **Web** : 学习资料 - [原文地址](https://blog.csdn.net/linxinfa/article/details/108049048)
 
 ## 官方资源
