@@ -3,6 +3,7 @@ using UnityEngine;
 /// <summary>
 /// 该脚本挂在要溶解的物体上
 /// </summary>
+[ExecuteInEditMode]
 public class Script5_21_1 : MonoBehaviour
 {
     /// <summary>
