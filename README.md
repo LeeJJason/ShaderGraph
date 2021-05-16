@@ -5,6 +5,7 @@
 * **Project** : ShaderGraph 工程练习, **unity 版本2019-4-9**
 * **Web** : 学习资料 - [原文地址](https://blog.csdn.net/linxinfa/article/details/108049048)
 
+`感谢文章作者`
 ## 官方资源
 * [ShaderGraph 源码](https://github.com/Unity-Technologies/ShaderGraph)
 * [ShaderGraph 例子](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
