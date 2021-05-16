@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\ShaderGraph\5-21\Script5_21_1.cs" />
     <Compile Include="Assets\ShaderGraph\5-24\Script_5_24.cs" />
+    <Compile Include="Assets\ShaderGraph\5-25\Script_5_25_1.cs" />
     <None Include="Assets\ShaderGraph\5-1\TODO.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity2019-4-9/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
